@@ -14,5 +14,5 @@ jobs:
       - name: print greeting
         run: echo "Hello, welcome to first action"
       - name: Print goodby
-        name: echo "Googbye, hope you enjoyed it!"
+        run: echo "Googbye, hope you enjoyed it!"
     
